@@ -1,5 +1,5 @@
 # spritezero
-spritezero container made with some of the few available pre-built binaries (linux/amd64 node:12)
+[spritezero](https://github.com/mapbox/spritezero-cli) container made with some of the few available pre-built binaries (linux/amd64 node:12)
 
 ## Example usage
 Creates `sprites@2x.png` and `sprites@2x.json` from svg files in `svg_folder`.
